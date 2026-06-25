@@ -1,3 +1,5 @@
+[![DevStats](https://devstats.app/?username=tym83&theme=cncf)](https://github.com/Skarlso/devstats)
+
 - 👋 Hi, I’m @tym83
 - 👀 I’m interested in Kotlin, Haskell, Lisp, Rust, Linux, Emacs, Vim and Free Software, but right now I learn only Kotlin and work as chief-editor :)
 - 🌱 I’m currently learning Git, Kotlin, SQL.
